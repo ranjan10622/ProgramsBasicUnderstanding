@@ -6,7 +6,7 @@ public class FactorialOfANumber {
 
 	public static void main(String[] args) {
 		// 4! = 4x3x2x1
-		
+		// I can be the best programmer
 		Scanner sc = new Scanner(System.in);
 		  System.out.println("Enter a number");
 		    int a =sc.nextInt();
